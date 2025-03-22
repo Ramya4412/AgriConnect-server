@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "fullName": "kavya",
+      "email": "saikavyakalyani@gmail.com",
+      "phoneNumber": "7894561230",
+      "address": "abc",
+      "city": "hyderabad",
+      "state": "ts",
+      "zipCode": "500055",
+      "role": "consumer",
+      "farmName": "",
+      "farmSize": "",
+      "cropType": "",
+      "soilType": "",
+      "irrigationMethod": "",
+      "experience": "",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "fullName": "Lakshmi",
+      "email": "saikavyakalyani@gmail.com",
+      "phoneNumber": "7894561230",
+      "address": "abc",
+      "city": "hyderabad",
+      "state": "ts",
+      "zipCode": "500055",
+      "role": "producer",
+      "farmName": "werty",
+      "farmSize": "652",
+      "cropType": "erdtghjh",
+      "soilType": "wefrgv",
+      "irrigationMethod": "cfrvrv",
+      "experience": "",
+      "password": "456",
+      "confirmPassword": "456",
+      "id": 2
+    }
+  ]
+}
